@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAJI4osFSfrBAncOGj6tMZxr4r3obJc3XA",
+  apiKey: "",
 
   authDomain: "ev-station-app-3d107.firebaseapp.com",
 
