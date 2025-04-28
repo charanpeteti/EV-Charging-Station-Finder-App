@@ -9,7 +9,7 @@ import MapRoute from "./MapRoute";
 import polyline from "polyline";
 import Colors from '../../utils/Colors.js'
 
-const GOOGLE_MAPS_API_KEY = "AIzaSyAJFnHpRm1b8iokILIejr9z1OngyNbiE-Q";
+const GOOGLE_MAPS_API_KEY = "apikey-Q";
 
 const AppMapView = ({placeList,selectedPlace }) => {
   const { location } = useContext(UserLocationContext);
