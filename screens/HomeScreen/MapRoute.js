@@ -1,7 +1,7 @@
 import React from "react";
 import MapViewDirections from "react-native-maps-directions";
 
-const GOOGLE_MAPS_API_KEY = "AIzaSyAJFnHpRm1b8iokILIejr9z1OngyNbiE-Q"; 
+const GOOGLE_MAPS_API_KEY = "apikey-Q"; 
 
 const MapRoute = ({ origin, destination }) => {
   if (!origin || !destination) return null;
